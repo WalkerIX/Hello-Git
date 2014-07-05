@@ -1,4 +1,4 @@
 Hello-Git
 =========
 
-This first git
+This first git  Try to learn how to use git!
